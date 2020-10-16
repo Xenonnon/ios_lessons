@@ -44,3 +44,5 @@ let sum:Float = 150000
 let persent:Float = 3.9
 let result_5:Float = (sum * persent/100) * 5 + sum
 print("\nsumma vklada posle 5 let = ", result_5)
+
+
